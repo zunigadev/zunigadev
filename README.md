@@ -6,7 +6,7 @@
 ## Sobre mi
 
 - 💻 FullStack developer
-- 📗 Programador profesional - TECSUP
+- 📗 Diseño y Desarrollo de Software - TECSUP
 - ⌛ 3 años de experiencia
 <br>
 
