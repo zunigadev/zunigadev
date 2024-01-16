@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- 💻 FullStack developer
+- 💻 Desarrollador FullStack
 - 📗 Diseño y Desarrollo de Software - TECSUP
 - ⌛ 3 años de experiencia
 <br>
