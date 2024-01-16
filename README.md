@@ -28,7 +28,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Aplicación de gestion de llaves Para edificio</h3>
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/009/888/038/small/loading-bar-doodle-element-hand-drawn-vector.jpg" width="400" alt="Proyecto llaves"></a>
