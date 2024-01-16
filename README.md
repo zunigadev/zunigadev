@@ -26,7 +26,6 @@
 </div>
                                                                                       
 </td>
-
 <td width="50%">
 <h3 align="center">Aplicación de gestion de llaves Para edificio</h3>
 <div align="center">                                       
