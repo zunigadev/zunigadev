@@ -36,7 +36,8 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Proyecto para gestionar el historial de la asignación de llaves al personal de edificios.</p>
+</p>Proyecto para gestionar el historial de la asignación de llaves al personal de edificios.
+</p>
 </div>                                                             
 </table>                                                                                 
 </div>
