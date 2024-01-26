@@ -19,7 +19,7 @@
 <div align="center">
 <a href="" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/009/888/038/small/loading-bar-doodle-element-hand-drawn-vector.jpg" width="400" alt="Proyecto de Tesis"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/zunigadev/PetAssistant-Backend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
