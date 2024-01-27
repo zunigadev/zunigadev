@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- 💻 Desarrollador FullStack
+- 💻 Desarrollador de Software
 - 📗 Diseño y Desarrollo de Software - TECSUP
 - ⌛ 3 años de experiencia
 - 🗂️ Repositorio Académico: https://github.com/DenZel1502
