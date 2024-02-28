@@ -11,43 +11,6 @@
 - 🗂️ Repositorio Académico: https://github.com/DenZel1502
 <br>
 
-## Proyectos *Principales*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">PetAssitant</h3>
-<div align="center">
-<a href="" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/009/888/038/small/loading-bar-doodle-element-hand-drawn-vector.jpg" width="400" alt="Proyecto de Tesis"></a>
-<p>
-<a href="https://github.com/zunigadev/PetAssistant-Backend" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto de conexión entre dueños de mascotas y cuidadores temporales, para adopción temporal y paseo de mascotas, basado en el modelo de negocio P2P.</p>
-</div>
-                                                                                      
-</td>
-<td width="50%">
-<h3 align="center">Aplicación de gestión de llaves para edificios.</h3>
-<div align="center">                                       
-<a href="" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/009/888/038/small/loading-bar-doodle-element-hand-drawn-vector.jpg" width="400" alt="Proyecto llaves"></a>
-<br>
-<p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Proyecto para gestionar el historial de la asignación de llaves al personal de edificios.
-  <br>
-  <br>
-</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-                                                       
-</div>
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
